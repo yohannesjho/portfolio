@@ -1,8 +1,3 @@
-'use client'
-import { useState } from "react";
-import ImageSlider from "../home/_components/ImageSlider";
-import Image from "next/image";
-
 
 const projects = [
   {

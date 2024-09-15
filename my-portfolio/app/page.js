@@ -1,7 +1,7 @@
 import Image from "next/image";
 import { FaReact, FaNodeJs } from 'react-icons/fa';
 import { SiNextdotjs, SiJavascript, SiRedux } from 'react-icons/si';
-import ImageSlider from "./home/_components/ImageSlider";
+ 
 
 
 export default function Home() {
